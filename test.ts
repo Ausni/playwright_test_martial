@@ -1,9 +1,9 @@
 // commentaire
 export  class Test{
-    readonly i : number;
-    constructor(i:number){
-        this.i=i;
-    }
+    // readonly i : number;
+    // constructor(index:number){
+    //     this.i=index;
+    // }
 
 }
 
